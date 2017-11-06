@@ -1,0 +1,14 @@
+
+title: Texas Music Documentation Project
+description: >- # this means to ignore newlines until "baseurl:"
+  The Texas Music Documentation Project supports the development of public
+  history projects related to music, musicians, and performance in Texas.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://texasmusicdocs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
